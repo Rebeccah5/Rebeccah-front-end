@@ -1,0 +1,38 @@
+body{
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTtOz8eqbf066SOpUTYReFtYImvTT3OpecUh04ZeKG4E3QZPtZ9");
+}
+
+
+h1{
+	text-align: center;
+	font-style: italic;
+	font-size: 30px;
+	color:yellow;
+	font-weight:bolder;
+}
+h2{
+	color: purple;
+	font-style: italic;
+}
+h3{
+	color: pink;
+	font-style: italic;
+}
+p{
+color:white;
+}
+ul{
+	color:yellow;
+	font-size: 20px;
+}
+ol{
+	color: purple;
+	font-weight: bolder;
+	font-size: 20px;
+}
+td{
+	color: yellow;
+	font-size: 20px;
+	text-align: center;
+
+}
