@@ -6,7 +6,7 @@ body{
 h1{
 	text-align: center;
 	font-style: italic;
-	font-size: 30px;
+	font-size: 2rem;
 	color:yellow;
 	font-weight:bolder;
 }
@@ -27,7 +27,7 @@ ul{
 }
 ol{
 	color: purple;
-	font-weight: bolder;
+	font-weight: bold;
 	font-size: 20px;
 }
 td{
